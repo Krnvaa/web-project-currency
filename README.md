@@ -1,4 +1,5 @@
 # Реализация сервиса, отображающего гифку в зависимости от изменения курса валют
+[![Build, Test](https://github.com/Krnvaa/web-project-currency/actions/workflows/nest-app.yml/badge.svg)](https://github.com/Krnvaa/web-project-currency/actions/workflows/nest-app.yml)
 [![License: MIT ](https://img.shields.io/badge/License-MIT-fuchsia.svg)](https://opensource.org/licenses/MIT)
 [![GitHub release](https://img.shields.io/github/release/Krnvaa/web-project-currency.svg?color=salmon)](https://github.com/Krnvaa/web-project-currency/releases)
 
