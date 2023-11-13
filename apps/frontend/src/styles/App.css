@@ -1,0 +1,30 @@
+  .container {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+  
+  .centered-heading {
+    text-align: center;
+    color: rgb(152, 64, 176);
+  }
+  
+  .currency-grid {
+    display: grid;
+    grid-template-columns: 800px;
+    margin: 0 auto;
+    gap: 20px;
+  }
+  .currency-item {
+    background-color: #f8dbf8;
+    padding: 10px;
+    border: 1px solid #a437b9;
+    text-align: center;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+  
+  .currency-item:hover {
+    background-color: #993a92;
+    color: white;
+  }
